@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex Codewright's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Alex Codewright
 
+Software Developer, AI Enthusiast, Gradia Graduate
 
 ## Currently
+Building innovative web applications and exploring machine learning.
 
-Standing on the shoulders of giants
+## Specialized in
+Full-stack web development, Python, JavaScript, AI models, automation, and DevOps.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Research Interests
+Neural networks, cloud computing, cybersecurity, game development, and open-source projects.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**2019-2022**  
+*Gradia, Jyväskylä*  
+Software Development - Vocational Qualification in Information and Communications Technology
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**2022-2025**  
+*University of Jyväskylä*  
+B.Sc. in Computer Science
 
-- Sizar
+## Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
+**2021**  
+*AWS Certified Cloud Practitioner*, Amazon Web Services
 
-- Fellow
+**2022**  
+*Certified Kubernetes Administrator (CKA)*, The Linux Foundation
 
+## Projects
 
+### Open-Source Contributions
 
-## Awards
+**2021**  
+*GradiaDevTools* - A collection of useful CLI tools for developers.
 
-`2012`
-President, *Royal Society*, London, UK
+**2022**  
+*AutoAI* - Open-source framework for training machine learning models automatically.
 
-Associate, *French Academy of Science*, Paris, France
+### Personal Projects
 
+**2023**  
+*DevPortfolio* - A minimalistic portfolio template for developers built with Next.js and Tailwind CSS.
 
+**2024**  
+*SmartHome AI* - Python-based automation for home IoT devices using Raspberry Pi and OpenAI API.
 
-## Publications
+## Work Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**2022 - Present**  
+*Freelance Software Developer*  
+- Developed custom web applications for small businesses.  
+- Created automation scripts for data analysis and process optimization.  
+- Contributed to open-source projects and tech communities.
 
-### Journals
+**2023**  
+*Software Developer Intern, TechInnovators Oy, Helsinki*  
+- Worked on a React and Node.js-based SaaS platform.  
+- Assisted in the deployment of microservices using Docker and Kubernetes.  
+- Implemented CI/CD pipelines for improved DevOps efficiency.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Skills
 
-`1669`
-Lectiones opticæ.
+**Programming Languages:** Python, JavaScript, TypeScript, C#  
+**Web Development:** React, Node.js, Next.js, Django, Flask  
+**Databases:** PostgreSQL, MongoDB, Firebase  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD pipelines  
+**Tools & Platforms:** Git, Linux, VS Code, GitHub Actions  
+**Soft Skills:** Teamwork, problem-solving, adaptability
 
-etc. etc. etc.
+## Languages
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- **Finnish** (Native)
+- **English** (Fluent)
+- **Swedish** (Intermediate)
