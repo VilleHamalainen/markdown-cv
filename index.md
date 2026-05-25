@@ -5,7 +5,7 @@ title: Alex Codewright's CV
 
 # Alex Codewright
 
-Software Developer, AI Enthusiast, Gradia Graduate
+### Software Developer, AI Enthusiast, Gradia Graduate
 
 ## Currently
 Building innovative web applications and exploring machine learning.
