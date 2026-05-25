@@ -1,82 +1,121 @@
----
 layout: cv
 title: Alex Codewright's CV
 ---
 
 # Alex Codewright
 
-Software Developer, AI Enthusiast, Gradia Graduate
+Student Developer | C#, Python, and Software Quality
 
 ## Currently
-Building innovative web applications and exploring machine learning.
+Completing vocational software development studies with a focus on object-oriented programming in C#, programming fundamentals in Python, software testing, and collaborative development workflows.
 
-## Specialized in
-Full-stack web development, Python, JavaScript, AI models, automation, and DevOps.
+## Interests
+Object-oriented software design, desktop application development, testing practices, and building reliable software in team environments.
 
-## Research Interests
-Neural networks, cloud computing, cybersecurity, game development, and open-source projects.
+---
 
 ## Education
 
-**2019-2022**  
+**2025 – 2028**  
 *Gradia, Jyväskylä*  
-Software Development - Vocational Qualification in Information and Communications Technology
+Vocational Qualification in ICT (Software Development)
 
-**2022-2025**  
-*University of Jyväskylä*  
-B.Sc. in Computer Science
+**Supplementary Studies**  
+*JAMK University of Applied Sciences*  
+Python programming course covering core programming concepts, functions, control structures, and basic data handling.
 
-## Certifications
-
-**2021**  
-*AWS Certified Cloud Practitioner*, Amazon Web Services
-
-**2022**  
-*Certified Kubernetes Administrator (CKA)*, The Linux Foundation
+---
 
 ## Projects
 
-### Open-Source Contributions
+### C# Desktop Application Exercises
+Built small desktop applications in C# with graphical user interfaces and basic application logic.  
+Focus: classes and objects, event-driven programming, and maintainable program structure.
 
-**2021**  
-*GradiaDevTools* - A collection of useful CLI tools for developers.
+### Python Programming Assignments
+Completed structured exercises covering variables, control structures, functions, and file-based data handling.  
+Focus: algorithmic thinking, readable code, and problem decomposition.
 
-**2022**  
-*AutoAI* - Open-source framework for training machine learning models automatically.
+### Testing and Quality Tasks
+Practiced unit testing and functional testing as part of development assignments.  
+Focus: verifying correctness, isolating defects early, and improving reliability.
 
-### Personal Projects
+### Team Development Coursework
+Worked on group assignments using Git and GitHub for version control and collaboration.  
+Focus: branch-based workflow, commit discipline, merge handling, and shared responsibility for code quality.
 
-**2023**  
-*DevPortfolio* - A minimalistic portfolio template for developers built with Next.js and Tailwind CSS.
+---
 
-**2024**  
-*SmartHome AI* - Python-based automation for home IoT devices using Raspberry Pi and OpenAI API.
+## Experience
 
-## Work Experience
+**Software Development Student Projects**
+- Developed coursework solutions in C# and Python based on defined functional requirements
+- Practiced translating assignment goals into structured, testable implementations
+- Improved solutions iteratively based on instructor feedback
 
-**2022 - Present**  
-*Freelance Software Developer*  
-- Developed custom web applications for small businesses.  
-- Created automation scripts for data analysis and process optimization.  
-- Contributed to open-source projects and tech communities.
+**Collaborative Coursework**
+- Contributed to team assignments using Git and GitHub
+- Participated in shared development workflows, version control, and merge resolution
+- Documented progress and maintained working solutions under deadlines
 
-**2023**  
-*Software Developer Intern, TechInnovators Oy, Helsinki*  
-- Worked on a React and Node.js-based SaaS platform.  
-- Assisted in the deployment of microservices using Docker and Kubernetes.  
-- Implemented CI/CD pipelines for improved DevOps efficiency.
+---
 
 ## Skills
 
-**Programming Languages:** Python, JavaScript, TypeScript, C#  
-**Web Development:** React, Node.js, Next.js, Django, Flask  
-**Databases:** PostgreSQL, MongoDB, Firebase  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD pipelines  
-**Tools & Platforms:** Git, Linux, VS Code, GitHub Actions  
-**Soft Skills:** Teamwork, problem-solving, adaptability
+**Languages:** C#, Python  
+**Development:** Object-oriented programming, desktop GUI exercises, structured problem-solving  
+**Testing:** Unit testing, functional testing, quality-focused development  
+**Tools:** Visual Studio, Visual Studio Code, Git, GitHub, .NET environment  
+**Environment:** Windows desktop development
+
+---
+
+## Competence Areas
+
+### Object-Oriented Programming and Software Development (C#)
+Developing software using C# with a focus on object-oriented programming principles such as classes, objects, inheritance, and encapsulation. Work includes building small desktop applications with graphical user interfaces and implementing basic application logic.
+
+Focus: OOP design, GUI development, structured problem-solving, and maintainable code.
+
+### Programming Fundamentals (Python - JAMK Course)
+Completed a Python programming course at JAMK covering core programming concepts such as variables, control structures, functions, and basic data handling.
+
+Focus: algorithmic thinking, problem decomposition, and writing clean, readable code.
+
+### Software Testing and Quality Assurance
+Practicing both unit testing and functional testing in development assignments.
+
+Focus: verifying program correctness, identifying bugs early, and improving code reliability.
+
+### Team-Based Software Development (Git & GitHub)
+Working in group projects using Git and GitHub for version control and collaboration.
+
+Focus: branch-based workflow, commit discipline, merge handling, and collaborative development practices.
+
+### How Skills Are Demonstrated
+- Structured programming assignments in C# and Python
+- GUI-based application development exercises
+- Unit and functional testing tasks
+- Group projects using Git-based workflows
+- Instructor-evaluated practical coding tasks
+
+### Assessment Style Experience
+- Emphasis on working software over theoretical knowledge
+- Evaluation based on functionality, structure, and code quality
+- Individual and team tasks with defined requirements and deadlines
+- Continuous feedback and iterative improvement of solutions
+
+### Development Tools
+- Visual Studio and Visual Studio Code
+- .NET environment for C# development
+- Git and GitHub for version control
+- Basic unit testing frameworks
+- Windows desktop development environment
+
+---
 
 ## Languages
 
-- **Finnish** (Native)
-- **English** (Fluent)
-- **Swedish** (Intermediate)
+- Finnish (Native)  
+- English (Fluent)  
+- Swedish (Intermediate)
