@@ -130,8 +130,10 @@ h1 {
 
 h1+p {
 	/*subtitle*/
+	/* Student note: increase margin-top here if you want more space between the name and the subtitle. */
 	font-style: italic;
 	font-size: 110%;
+	margin-top: 0.45em;
 }
 
 h2 {
