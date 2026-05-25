@@ -4,7 +4,6 @@ title: Isaac Newtons's CV
 ---
 
 # Alex Codewright
-
 Student Developer | C#, Python, and Software Quality
 
 ## Currently
