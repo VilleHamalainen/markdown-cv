@@ -7,7 +7,7 @@ title: Alex Codewright CV
 Student Developer | C#, Python, and Software Quality
 
 ## Currently
-Completing vocational software development studies with a focus on object-oriented programming in C#, programming fundamentals in Python, software testing, and collaborative development workflows.
+Completing vocational software development studies with a focus on object-oriented programming in C#, programming fundamentals in Python, software testing, and collaborative development workflows. Also interesting in AI but AI lunatic.
 
 ## Interests
 Object-oriented software design, desktop application development, testing practices, and building reliable software in team environments.
